@@ -6,7 +6,7 @@ Search for more than 100 recipes and cook.
 
 ## Authors
 
-- [@kamilismayilzade](https://www.github.com/kamilismayilzade)
+- [@Adrian](https://www.github.com/adrid34)
 
 
 ## Documentation
@@ -52,7 +52,7 @@ Recipe web application called Forkify for searching for several recipes. Project
 Go to the project directory
 
 ```bash
-  cd Forkify-recipe app
+  cd js-forkify
 ```
 
 Install dependencies
